@@ -10,10 +10,11 @@ Climate change
 * Carbon emmissions
 * Industry
 * Poor countries being more affected
-*-> Climate refugees
-* Water shortages
-* Drought
-* Climate catastrophes
+  -> Climate refugees
+* Global warming
+  - Water shortages
+  - Drought
+  - Climate catastrophes
 
 Social inequality
 ---
@@ -27,8 +28,8 @@ Social inequality
 War
 ---
 * Ukrainian war
-*- Fake news
-*- Gas
+  - Fake news
+  - Gas
 * Afghanistan conflict
 * [And a lot more](https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts)
 
@@ -40,10 +41,12 @@ Economic
 * Gas
 * Dependencies
 
-#Software
-#---
-#* Android
-#*- Fragmentation
-#*- OEMs not prividing kernel source
-#* Gnu+Linux
-#*- Fragmentation
+<!--
+Software
+---
+* Android
+  - Fragmentation
+  - Some OEMs not prividing kernel source
+* Gnu+Linux
+  - Fragmentation
+-->
