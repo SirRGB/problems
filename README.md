@@ -25,6 +25,12 @@ Social inequality
 * Slums
 * Refugees
 
+Health
+---
+* COVID-19
+  - New waves of infections
+* Monkeypox outbreak
+
 War
 ---
 * Ukrainian war
